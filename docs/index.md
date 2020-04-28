@@ -14,3 +14,6 @@
 [厚生労働省のコロナウイルスに関するHP](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html)
 
 ![感染対策されたレジ](./mask_reji_sheet.png  "感染対策されたレジ") 
+
+## あわせて読みたい
+[testページ](./test.html)
