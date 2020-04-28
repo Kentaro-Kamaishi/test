@@ -6,4 +6,4 @@ Stay Home!
 
 Be careful of social distance!
 
-Have a nice day! :^)
+Have a nice day!  :^)
